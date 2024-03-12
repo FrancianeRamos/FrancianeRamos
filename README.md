@@ -1,12 +1,12 @@
-## Bem vindo! Eu sou Jefferson Passerini.
+## Olá! Me Chamo Franciane Ramos.
 
-- 🔭 Sou docente de tecnologia da informação, atuando com análise e desenvolvimento de software.
-- 🌱 Atualmente faço doutorado em Ciência da Computação na área de Inteligência Computacional.
+- ✨ Facço graduação do curso Análise e desenvolvimento de sistemas-AMS.
+- 🎓 Sou formada em curso técnico integrado ao ensino médio.
 
 <div align="center">
-  <a href="https://github.com/JeffersonPasserini/">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JeffersonPasserini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonPasserini&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/francianeRamos/">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FrancianeRamos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancianeRamos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
