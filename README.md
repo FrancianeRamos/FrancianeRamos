@@ -1,9 +1,10 @@
 <h2 align="left">Olá 👋! Meu nome é Franciane Ramos, eu curso Análise de Desenvolvimento de Sistemas.</h2>
 
 ###
- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=FrancianeRamos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancianeRamos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
-
+<p align="center">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=izabellyBritto&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=0D1117"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabellyBritto&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=0D1117&layout=compact"/>
+</p>
 ###
 
 
