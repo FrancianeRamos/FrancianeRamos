@@ -3,7 +3,7 @@
 ###
 
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=FrancianeRamos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancianeRamos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancianeRamos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 
 ###
 
