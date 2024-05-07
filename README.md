@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Franciane Ramos, eu curso Análise de Desenvolvimento de Sistemas.</h2>
+<h2 align="left">Olá! Meu nome é Franciane Ramos.😊</h2>
 
 ###
 <p align="center">
