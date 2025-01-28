@@ -8,10 +8,6 @@
 
 ### Estatísticas:
 
-![Gráfico de Atividade no GitHub](https://metrics.lecoq.io/https://github.com/FrancianeRamos)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancianeRamos&show_icons=true)  ![Estatísticas de atividade no GitHub](https://streak-stats.demolab.com/?user=FrancianeRamos)
 
-![Estatísticas de atividade no GitHub](https://streak-stats.demolab.com/?user=https://github.com/FrancianeRamos)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancianeRamos&show_icons=true)
-
-![Estatísticas de atividade no GitHub](https://streak-stats.demolab.com/?user=FrancianeRamos)
