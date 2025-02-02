@@ -1,4 +1,4 @@
-## Olá, eu sou o Franciane Ramos ![Abanando](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)!
+## Olá, eu sou Franciane Ramos ![Abanando](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)!
 
 ###
 
