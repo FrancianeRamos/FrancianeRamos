@@ -1,4 +1,4 @@
-## Olá, meu nome é Franciane Ramos !🙂!
+## Olá, meu nome é Franciane Ramos 🙂
 
 
 ### Estatísticas:
