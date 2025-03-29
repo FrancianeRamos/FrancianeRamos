@@ -1,5 +1,11 @@
 <h2 align="left"></h2>
 
+<div align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FrancianeRamos&show_icons=true&count_private=true&title_color=FF00FF&icon_color=FF00FF&text_color=8A2BE2&bg_color=0d1117&hide_border=true&theme=midnight-purple"/>
+</div>
+
+---
+
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/736x/88/98/65/889865e2df8b49c05875c62cf9c5670f.jpg"  />
