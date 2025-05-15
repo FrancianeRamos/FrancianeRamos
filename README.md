@@ -1,11 +1,3 @@
-<h2 align="left"></h2>
-
-<div align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FrancianeRamos&show_icons=true&count_private=true&title_color=FF00FF&icon_color=FF00FF&text_color=8A2BE2&bg_color=0d1117&hide_border=true&theme=midnight-purple"/>
-     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancianeRamos&text_color=8A2BE2&bg_color=0d1117&title_color=FF00FF&theme=midnight-purple&hide_border=true"/>
-</div>
-
----
 
 ###
 
